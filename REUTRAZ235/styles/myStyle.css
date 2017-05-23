@@ -1,0 +1,177 @@
+body {
+    direction: rtl;
+    background-color: whitesmoke;
+
+}
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+    height:1180px;
+    background-image: url('../backgrounds/reut.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#container2 {
+    width: 960px;
+    margin: 0 auto;
+    height:1180px;
+    background-image: url('../backgrounds/reut2.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#container3{
+    width: 960px;
+    margin: 0 auto;
+    height:1800px;
+    background-image: url('../backgrounds/reut3.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#container4{
+    width: 960px;
+    margin: 0 auto;
+    height:1450px;
+    background-image: url('../backgrounds/reut3.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+/* הכותרות באתר*/
+
+h1 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20pt;
+    color: white;
+    text-align: center;
+    margin-top:200px;
+    padding-top: 30px;
+}
+
+span {
+    color: #A30FA6;
+    font-size: 22pt;
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+/* פסקאות*/
+p {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20pt;
+    color: black;
+    margin-top: -10px;
+    text-align: center;
+}
+
+
+/* תפריט ניווט*/
+nav {
+    margin-top:9PX;
+}
+
+    nav ul li {
+        display: inline-block;
+        float: right;
+        margin-bottom: 20px;
+    }
+
+        nav ul li a {
+            display: block;
+            background-color: rgba(255,255,255,0.7);
+            color: #500083;
+            font-family: 'Varela Round', sans-serif;
+            font-size: 20pt;
+            width: 240px;
+            height: 40px;
+            padding-top: 10px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+iframe {
+    margin-right: 115px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+/* תפריט ניווט*/
+nav ul li a.selected {
+    background-color: #C38DCE;
+}
+
+nav ul li a:hover {
+    background-color: #F9E9F1;
+}
+
+nav ul li a.selected:hover {
+    background-color: #F9E9F1;
+}
+
+nav ul li a:active {
+    background-color: #F9E9F1;
+}
+#kisor{
+     display:inline-block;
+    margin-top:680px;
+    margin-right:100px;
+    
+}
+
+#kisor2{
+     display:inline-block;
+    margin-top:300px;
+    margin-right:100px;
+  }
+#kisor3 {
+    display: inline-block;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+#instagram{
+    width: 50px;
+    height: 50px;
+}
+#facebook{
+    width: 50px;
+    height: 50px;
+}
+
+#craza {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 14pt;
+  
+    text-align:center;
+}
+
+#linka {
+    text-decoration: none;
+}
+
+
+#movie {
+    margin-right: 90px;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+audio {
+    margin-right: 350px;
+}
+#midbar{
+    width:600px;
+    height:350px;
+    margin-right:190px;
+    margin-top:20px;
+}
+
+#erez{
+width:600px;
+    height:480px;
+    margin-right:120px;
+    margin-top:20px;
+}
+#img2{
+    margin-right:155px;
+    margin-top:20px;
+}
